@@ -5,7 +5,7 @@
 
 | [Brownian motion](sample/brownian.md) | [Brownian motion](sample/brownian.md) | [Brownian motion](sample/brownian.md)  | [Brownian motion](sample/brownian.md) |
 | --- | --- | --- | --- |
-|<img src = "sample/output_8_0.png" width="200" height="250" /> | <img src = "sample/output_8_0.pn" width="200" height="250" />  |<img src = "sample/output_8_0.pn" width="200" height="250" /> | <img src = "sample/output_8_0.pn" width="200" height="250" />| 
+|<img src = "sample/output_8_0.png" width="100" height="150" /> | <img src = "sample/output_8_0.pn" width="100" height="150" />  |<img src = "sample/output_8_0.pn" width="100" height="150" /> | <img src = "sample/output_8_0.pn" width="100" height="150" />| 
 
 
 #### ALGORITHMS
