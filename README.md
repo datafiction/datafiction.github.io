@@ -1,2 +1,2 @@
-[Brownian motion](sample/brawnian.md)
+[Brownian motion](sample/brownian.md)
 
