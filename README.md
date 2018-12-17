@@ -3,7 +3,7 @@
 
 #### INTRODUCTION TO PROGRAMMING IN PYTHON
 
-| [Brownian motion](sample/brownian.md) | [Brownian motion](sample/brownian.md) | [Brownian motion](sample/brownian.md)  | [Brownian motion](sample/brownian.md) |
+| [Dta structure](sample/brownian.md) | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
 |<img src = "sample/output_8_0.png" width="150" height="100" /> | <img src = "sample/output_25_0.png" width="150" height="100" />  |<img src = "sample/output_29_0.png" width="150" height="100" /> | <img src = "sample/output_40_0.png" width="150" height="100" />| 
 
