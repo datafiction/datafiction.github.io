@@ -1,7 +1,7 @@
 ### PYTHON LECTURES
 
 
-#### INTRODUCTION TO PROGRAMMING IN PYTHON
+**INTRODUCTION TO PROGRAMMING IN PYTHON**
 
 | [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
