@@ -11,7 +11,7 @@
 
 -------------------
 
-#### SIMULATION
+#### <img src = "sample/lecture.png" width="25" height="25" /> SIMULATION 
 
-#### OPTIMIZATION
+#### <img src = "sample/lecture.png" width="25" height="25" /> OPTIMIZATION
 
