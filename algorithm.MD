@@ -26,4 +26,4 @@
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 
-#### REFERENCES
+#### <img src = "sample/R.png" width="50" height="50" /> REFERENCES
