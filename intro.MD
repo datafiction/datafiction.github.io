@@ -5,7 +5,7 @@
 
 
 
-##  <img src = "sample/lecture.png" width="50" height="50" />  INTRODUCTION TO PROGRAMMING IN PYTHON
+##  <img src = "sample/lecture.png" width="40" height="40" />  INTRODUCTION TO PROGRAMMING IN PYTHON
 
 |  [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 
-## <img src = "sample/project.png" width="50" height="50" />  CLASS PROJECTS
+## <img src = "sample/project.png" width="40" height="40" />  CLASS PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -21,7 +21,7 @@
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 
-## <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
+## <img src = "sample/assign.png" width="40" height="40" />  ASSIGNMENTS
 
 | [Lorentz](sample/brownian.md)  | [Fractal](sample/brownian.md) | [Mandelbrot](sample/brownian.md)  | [Brownian-Motion](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -29,7 +29,7 @@
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 
-## <img src = "sample/R.png" width="50" height="50" /> REFERENCES
+## <img src = "sample/R.png" width="40" height="40" /> REFERENCES
 
 
 
