@@ -1,11 +1,11 @@
 
 
-### <img src = "sample/home.png" width="40" height="25" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
+### <img src = "sample/home.png" width="80" height="50" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
 
 -----------------------------------------
 
 
-####  <img src = "sample/lecture.png" width="25" height="25" />  INTRODUCTION TO PROGRAMMING IN PYTHON
+####  <img src = "sample/lecture.png" width="50" height="50" />  INTRODUCTION TO PROGRAMMING IN PYTHON
 
 |  [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
