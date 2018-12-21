@@ -1,4 +1,4 @@
-### [PYTHON LECTURES] (https://datafiction.github.io/)
+### [PYTHON LECTURES](https://datafiction.github.io/)
 
 #### INTRODUCTION TO PROGRAMMING IN PYTHON
 
