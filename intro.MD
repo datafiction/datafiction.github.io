@@ -1,6 +1,6 @@
 
 
-### <img src = "sample/home.png" width="80" height="50" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
+### <img src = "sample/home.png" width="40" height="25" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
 
 
 
