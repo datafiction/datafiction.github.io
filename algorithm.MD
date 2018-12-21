@@ -1,9 +1,9 @@
-### <img src = "sample/home.png" width="40" height="25" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
+# <img src = "sample/home.png" width="80" height="50" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
 
 -----------------------------
 
 
-#### <img src = "sample/lecture.png" width="25" height="25" /> ALGORITHMS
+## <img src = "sample/lecture.png" width="50" height="50" /> ALGORITHMS
 
 | [Array](sample/brownian.md) | [Trees](sample/brownian.md) | [Graph](sample/brownian.md)  | [Dynamic Programming](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 
 ---------------------------------------------------
 
-#### <img src = "sample/project.png" width="25" height="25" /> PROJECTS
+## <img src = "sample/project.png" width="50" height="50" /> PROJECTS
 
 | [Array](sample/brownian.md) | [Trees](sample/brownian.md) | [Graph](sample/brownian.md)  | [Dynamic Programming](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@
 
 ---------------------------------------------------
 
-#### <img src = "sample/assign.png" width="25" height="25" /> ASSIGNMENTS
+## <img src = "sample/assign.png" width="50" height="50" /> ASSIGNMENTS
 
 | [Array](sample/brownian.md) | [Trees](sample/brownian.md) | [Graph](sample/brownian.md)  | [Dynamic Programming](sample/brownian.md) |
 | --- | --- | --- | --- |
