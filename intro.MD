@@ -1,4 +1,9 @@
-### [PYTHON LECTURES  HOME](https://datafiction.github.io/)
+
+
+### [PYTHON LECTURES HOME](https://datafiction.github.io/)
+
+<img src = "sample/home.png" width="50" height="50" />
+
 
 #### INTRODUCTION TO PROGRAMMING IN PYTHON
 
