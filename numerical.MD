@@ -1,4 +1,4 @@
-### PYTHON LECTURES
+### [PYTHON LECTURES  HOME](https://datafiction.github.io/)
 
 #### NUMERICAL METHODS IN SCIENTIFIC COMPUTING
 
@@ -21,3 +21,6 @@
 ---------------------------------------------------
 
 #### REFERENCES
+
+---------------------------------------
+### [PYTHON LECTURES  HOME](https://datafiction.github.io/)
