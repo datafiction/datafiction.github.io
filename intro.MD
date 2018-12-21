@@ -1,6 +1,6 @@
 
 
-### <img src = "sample/home.png" width="80" height="50" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
+# <img src = "sample/home.png" width="80" height="50" /> [PYTHON LECTURES HOME](https://datafiction.github.io/)
 
 -----------------------------------------
 
@@ -14,7 +14,7 @@
 
 ---------------------------------------------------
 
-### <img src = "sample/project.png" width="50" height="50" />  PROJECTS
+## <img src = "sample/project.png" width="50" height="50" />  PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 
 ---------------------------------------------------
 
-### <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
+## <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
 
 | [Lorentz](sample/brownian.md)  | [Fractal](sample/brownian.md) | [Mandelbrot](sample/brownian.md)  | [Brownian-Motion](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -32,7 +32,7 @@
 
 ---------------------------------------------------
 
-### REFERENCES
+## REFERENCES
 
 
 
