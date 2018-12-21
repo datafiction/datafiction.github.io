@@ -5,9 +5,7 @@
 -----------------------------------------
 
 
-####  <img src = "sample/lecture.png" width="50" height="50" />  INTRODUCTION TO PROGRAMMING IN PYTHON
-
-Introduction is dedicated to introduce fundamental data structures, functions, class and libraries in Python.
+##  <img src = "sample/lecture.png" width="50" height="50" />  INTRODUCTION TO PROGRAMMING IN PYTHON
 
 |  [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -16,7 +14,7 @@ Introduction is dedicated to introduce fundamental data structures, functions, c
 
 ---------------------------------------------------
 
-#### <img src = "sample/project.png" width="50" height="50" />  PROJECTS
+### <img src = "sample/project.png" width="50" height="50" />  PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -25,7 +23,7 @@ Introduction is dedicated to introduce fundamental data structures, functions, c
 
 ---------------------------------------------------
 
-#### <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
+### <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
 
 | [Lorentz](sample/brownian.md)  | [Fractal](sample/brownian.md) | [Mandelbrot](sample/brownian.md)  | [Brownian-Motion](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -34,7 +32,7 @@ Introduction is dedicated to introduce fundamental data structures, functions, c
 
 ---------------------------------------------------
 
-#### REFERENCES
+### REFERENCES
 
 
 
