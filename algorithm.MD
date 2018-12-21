@@ -1,5 +1,7 @@
 ### <img src = "sample/home.png" width="40" height="25" /> PYTHON LECTURES
 
+-----------------------------
+
 
 #### <img src = "sample/lecture.png" width="25" height="25" /> ALGORITHMS
 
