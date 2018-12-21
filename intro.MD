@@ -1,7 +1,6 @@
-### PYTHON LECTURES
+### [PYTHON LECTURES] (https://datafiction.github.io/)
 
-
-#### INTRODUCTION TO PROGRAMMING IN PYTHON     [HOME](https://datafiction.github.io/)
+#### INTRODUCTION TO PROGRAMMING IN PYTHON
 
 | [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
