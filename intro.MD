@@ -14,7 +14,7 @@
 
 ---------------------------------------------------
 
-#### <img src = "sample/project.png" width="25" height="25" />  PROJECTS
+#### <img src = "sample/project.png" width="50" height="50" />  PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 
 ---------------------------------------------------
 
-#### <img src = "sample/assign.png" width="25" height="25" />  ASSIGNMENTS
+#### <img src = "sample/assign.png" width="50" height="50" />  ASSIGNMENTS
 
 | [Lorentz](sample/brownian.md)  | [Fractal](sample/brownian.md) | [Mandelbrot](sample/brownian.md)  | [Brownian-Motion](sample/brownian.md) |
 | --- | --- | --- | --- |
