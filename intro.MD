@@ -5,16 +5,16 @@
 
 
 
-#### INTRODUCTION TO PROGRAMMING IN PYTHON
+####  <img src = "sample/lecture.png" width="25" height="25" /> INTRODUCTION TO PROGRAMMING IN PYTHON
 
-| <img src = "sample/lecture.png" width="25" height="25" /> [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
+|  [Data structure](sample/brownian.md)  | [Loops and Conditions](sample/brownian.md) | [Function and Class](sample/brownian.md)  | [Numpy, Pandas and Plots](sample/brownian.md) |
 | --- | --- | --- | --- |
 |<img src = "sample/output_8_0.png" width="150" height="100" /> | <img src = "sample/output_25_0.png" width="150" height="100" />  |<img src = "sample/output_29_0.png" width="150" height="100" /> | <img src = "sample/output_40_0.png" width="150" height="100" />| 
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 ---------------------------------------------------
 
-#### PROJECTS
+#### <img src = "sample/project.png" width="25" height="25" /> PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
@@ -23,7 +23,7 @@
 
 ---------------------------------------------------
 
-#### ASSIGNMENTS
+#### <img src = "sample/assign.png" width="25" height="25" /> ASSIGNMENTS
 
 | [Lorentz](sample/brownian.md)  | [Fractal](sample/brownian.md) | [Mandelbrot](sample/brownian.md)  | [Brownian-Motion](sample/brownian.md) |
 | --- | --- | --- | --- |
