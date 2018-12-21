@@ -13,7 +13,7 @@
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 
-## <img src = "sample/project.png" width="50" height="50" />  PROJECTS
+## <img src = "sample/project.png" width="50" height="50" />  CLASS PROJECTS
 
 | [Random Walk](sample/brownian.md)  | [Diffusion](sample/brownian.md) | [Fern](sample/brownian.md)  | [N-charges](sample/brownian.md) |
 | --- | --- | --- | --- |
