@@ -9,7 +9,7 @@
 
 |  [Data structure](intro/1.1.DataStructure.md)  | [Loops and Conditions](intro/2/1.2.LoopsAndConditions.md) | [Function and Class](intro/3/1.3.FunctionAndClass.md)  | 
 | --- | --- | --- | 
-|<img src = "intro/5/output_15_0.png" width="200" height="200" /> | <img src = "intro/4/output_15_0.png" width="200" height="200" />  |<img src = "intro/3/output_48_0.png" width="200" height="200" /> |
+|<img src = "intro/5/output_15_0.png" width="200" height="180" /> | <img src = "intro/4/output_15_0.png" width="200" height="180" />  |<img src = "intro/3/output_48_0.png" width="200" height="180" /> |
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | 
 
 ### <img src = "sample/project.png" width="30" height="30" />  CLASS-PROJECTS
