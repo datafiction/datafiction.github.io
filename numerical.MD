@@ -4,4 +4,4 @@
 
 ### <img src = "sample/lecture.png" width="30" height="30" /> NUMERICAL METHODS IN SCIENTIFIC COMPUTING
 
-### Under Construction
+### =============== Under Construction ================
