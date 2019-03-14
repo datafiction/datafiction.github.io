@@ -29,20 +29,20 @@ nav:
 - Why Codes?: WhyCodes.md
 
 - Deep Learning:
-  - NN: UnderConstruction.md
-  - CNN: UnderConstruction.md
-  - LSTM: UnderConstruction.md
-  - RNN: UnderConstruction.md
+  - Neural Network : UnderConstruction.md
+  - Convolutional Neural Network: UnderConstruction.md
+  - Long Short Term Memory Network: UnderConstruction.md
+  - Recurrent Neural Network: UnderConstruction.md
   - GAN: UnderConstruction.md
   
 
   
 - Rinforcement Learning:
-  - Dataframe: Pandas/DataFrame/dataframe.md
-  - Indexing: Pandas/Indexing/Indexing.md
-  - Data Exploration: Pandas/Explor/explor.md
-  - GroupBy: Pandas/GroupBy/groupby.md
-  - Lambda Transform : Pandas/Lambda/lambda.md
+  - Introduction : UnderConstruction.md
+  - Lattice Model: UnderConstruction.md
+  - Driving Cab: UnderConstruction.md
+  - Policy and Framework: UnderConstruction.md
+  - DeepQ network : UnderConstruction.md
   
   
 
@@ -51,7 +51,7 @@ nav:
   - Spark: UnderConstruction.md
   - Neo4j: UnderConstruction.md
   - MongoDB: UnderConstruction.md
-  - Node and Express:
+  - Node and Express: UnderConstruction.md
   
   
 - Blockchain:
