@@ -1,0 +1,68 @@
+site_name: Data Fiction
+
+
+theme:
+  name: 'material'
+  highlightjs: true
+  hljs_languages: []
+  include_homepage_in_sidebar: true
+  prev_next_buttons_location: bottom
+  navigation_depth: 4
+  titles_only: false
+  sticky_navigation: true
+  collapse_navigation: true
+ 
+ 
+  
+      
+markdown_extensions:
+  - codehilite:
+      linenums: false
+      guess_lang: false
+      use_pygments: true
+      noclasses: true
+      pygments_style: manni
+
+
+nav:
+- Home: index.md
+- Why Codes?: WhyCodes.md
+
+- Deep Learning:
+  - NN: UnderConstruction.md
+  - CNN: UnderConstruction.md
+  - LSTM: UnderConstruction.md
+  - RNN: UnderConstruction.md
+  - GAN: UnderConstruction.md
+  
+
+  
+- Rinforcement Learning:
+  - Dataframe: Pandas/DataFrame/dataframe.md
+  - Indexing: Pandas/Indexing/Indexing.md
+  - Data Exploration: Pandas/Explor/explor.md
+  - GroupBy: Pandas/GroupBy/groupby.md
+  - Lambda Transform : Pandas/Lambda/lambda.md
+  
+  
+
+- BigData and App:
+  - Hadoop: UnderConstruction.md
+  - Spark: UnderConstruction.md
+  - Neo4j: UnderConstruction.md
+  - MongoDB: UnderConstruction.md
+  - Node and Express:
+  
+  
+- Blockchain:
+  - Introduction: UnderConstruction.md
+  - Bitcoin: UnderConstruction.md
+  - Etherum : UnderConstruction.md
+  
+  
+- References: References/ref.md
+ 
+ 
+ 
+ 
+ 
