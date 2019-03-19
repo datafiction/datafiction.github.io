@@ -1,6 +1,3 @@
-# Datafiction
+# Welcome to Datafiction
 
-### Transfer
-```
-scp -i key.pem -r bitnami@X.X.X.X:/home/bitnami/codes .
-```
+Under Construction
