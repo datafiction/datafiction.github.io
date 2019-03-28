@@ -1,17 +1,19 @@
+
 @import url(https://fonts.googleapis.com/css?family=Orbitron);
+
 body {
   margin: 0;
   font-weight: 300;
   color: rgba(250, 250, 250, .8);
   font-family: 'Orbitron', sans-serif;
-  background: url('deep_space-wallpaper-1600x1200.jpg');
   letter-spacing: 1.5px;
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
-  background-image: linear-gradient(#092846, #000);
+  background-image: linear-gradient(to right, #3f3251, #002025); 
 }
+
 
 h3,
 h6 {
@@ -22,176 +24,117 @@ h6 {
 h6 {
   margin-top: 0px;
   text-indent: 15px;
-  color: rgba(0, 224, 120, .5);
-}
-
-.container {
-  width: 288px;
-  height: 288px;
-  margin: 0 auto;
-  top: calc(50% - 133px);
-  position: absolute;
-	left: calc(50% - 133px);
-/* 	border: 1px solid; */
-}
-
-.container:after {
-	transform: rotate(90deg);
-}
-
-.hexagon {
-	position: absolute;
-	width: 100px;
-	height: 87px;
-	margin: 0;
-	background-image: url(https://dl.dropboxusercontent.com/s/6fxnloq0m610zji/hexagon.svg?dl=0);
-	background-repeat: no-repeat;
-	background-size: contain;
-}
-
-.hexagon.one {
-	top: 51px;
-	left: 7px;
-}
-.hexagon.six {
-	bottom: 51px;
-	right: 7px;
-}
-
-.hexagon.two {
-	top: 0px;
-	left: calc(50% - 50px);
-}
-.hexagon.five {
-	left: calc(50% - 50px);
-	bottom: 0px;
-}
-
-.hexagon.three {
-	top: 50px;
-	right: 7px;
-}
-
-.hexagon.four {
-	top: 151px;
-	bottom: 62px;
-	left: 7px;
+  color: white;
 }
 
 
 
-.hex-row-wrapper {
-	position: absolute;
-	width: 288px;
-	height: 288px;
-	padding: 0px 0px 0px;
-	transition: .3s;
-	border-radius: 50%;
+
+.honeycomb-menu-section .honeycomb svg {
+	max-width: 100%;
+	margin: 0px auto;
+	overflow: visible;
+	/*
+    padding: 30px;
+    margin-bottom: 20px;
+*/
 }
 
-.hex-row {
-  width: 265px;
-  display: block;
-  position: absolute;
-  height: 94px;
-  width: 100%;
-  top: 0px;
+.honeycomb-menu-section .honeycomb svg .main-menu-group text tspan {
+	pointer-events: none;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 17px;
+	fill: #FFFFFF;
+	-webkit-transition: all 0.8s ease-in-out;
+	-moz-transition: all 0.8s ease-in-out;
+	-o-transition: all 0.8s ease-in-out;
+	transition: all 0.8s ease-in-out;
 }
 
-.hex-row + .hex-row {
-  top: 98px;
+.honeycomb-menu-section .honeycomb svg .main-menu-group text {
+	pointer-events: none;
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	font-size: 17px;
+	fill: #FFFFFF;
+	-webkit-transition: all 0.8s ease-in-out;
+	-moz-transition: all 0.8s ease-in-out;
+	-o-transition: all 0.8s ease-in-out;
+	transition: all 0.8s ease-in-out;
 }
 
-.hex-row + .hex-row .hexagon.left {
-  top: -8px;
-  left: -35px;
+.honeycomb-menu-section .honeycomb svg .menu:hover text {
+	fill: #f00;
 }
 
-.hex-row + .hex-row .hexagon.right {
-  right: -36px;
-  top: -8px;
+.honeycomb-menu-section .honeycomb svg .menu:hover text tspan {
+	fill: #f00;
 }
 
-.hex.even {
-  margin-top: 53px;
-}
 
-.active {
-	position: absolute;
-	width: 94px;
-	height: 59.27px;
-	background-color: transparent;
-	margin: 27.14px 0;
-	border-left: solid 5px #fff;
-	border-right: solid 5px #fff;
-	transform: rotate(90deg);
-	bottom: -14px;
-	left: calc(50% - 52px);
-	display: block;
-	opacity: .3;
-}
+/*.honeycomb-menu-section .honeycomb svg .menu path{
+	position: relative;
+}*/
 
-.active:before,
-.active:after {
-  content: "";
-  position: absolute;
-  z-index: 1;
-  width: 66.47px;
-  height: 66.47px;
-  -webkit-transform: scaleY(0.5774) rotate(-45deg);
-  -ms-transform: scaleY(0.5774) rotate(-45deg);
-  transform: scaleY(0.5774) rotate(-45deg);
-  background-color: transparent;
-  left: 9.766px;
-}
-
-.active:before {
-  top: -37.234px;
-  border-top: solid 7.0711px #fff;
-  border-right: solid 7.0711px #fff;
-}
-
-.active:after {
-  bottom: -36.234px;
-  border-bottom: solid 7.0711px #fff;
-  border-left: solid 7.0711px #fff;
-}
-
-.arrow-left {
-  width: 0px;
-  height: 0px;
-  border-left: 18px solid transparent;
-  border-right: 18px solid transparent;
-  border-top: 9px solid #fff;
-  position: absolute;
-  left: 28px;
-  bottom: -18px;
-  opacity: .6;
-  z-index: 500;
-}
-
-.arrow-right {
-  width: 0px;
-  height: 0px;
-  border-left: 18px solid transparent;
-  border-right: 18px solid transparent;
-  border-bottom: 9px solid #fff;
-  opacity: .6;
-  left: 28px;
-  position: absolute;
-  top: -18px;
-  z-index: 500;
-}
-
-i.fa {
-	position: absolute;
-	font-size: 40px;
-	transition: .3s;
+.honeycomb-menu-section .honeycomb svg .menu .main-hex {
+	transition: 0.4s all ease-in-out;
+	-webkit-transition: 0.4s all ease-in-out;
+	transform: scale(1);
+	-webkit-transform: scale(1);
 	transform-origin: center;
-	z-index: 600;
-	color: white;
-	width: 100%;
-	height: 100%;
-	text-align: center;
-	line-height: 85px;
+	-webkit-transform-origin: center;
+}
+
+.honeycomb-menu-section .honeycomb svg .menu {
+	transform: scale(1);
+	-webkit-transform: scale(1);
+	position: relative;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+	-webkit-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+
+/*
+.honeycomb-menu-section .honeycomb svg .menu:hover .main-hex{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+}
+*/
+
+.honeycomb-menu-section .honeycomb svg .menu:hover {
+	transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	filter: drop-shadow(5px 5px 100px 10px black);
+	-webkit-filter: drop-shadow(5px 5px 100px 10px #000);
+	z-index: 4;
+	-webkit-transform-origin: center;
+	transform-origin: center;
+}
+
+.honeycomb-menu-section .honeycomb svg .menu * {
+	position: relative;
+}
+
+.honeycomb-menu-section .honeycomb svg .menu:hover * {
+	z-index: 9;
+}
+
+.honeycomb-menu-section .honeycomb svg .menu path {
+	stroke: rgba(92, 92, 92, 1);
+	stroke-opacity: 1;
+	stroke-width: 0;
+	-webkit-transition: all 0.8s ease-in-out;
+	-moz-transition: all 0.8s ease-in-out;
+	-o-transition: all 0.8s ease-in-out;
+	transition: all 0.8s ease-in-out;
+}
+
+#blur-filter {
+	-webkit-transition: all 0.8s ease-in-out;
+	-moz-transition: all 0.8s ease-in-out;
+	-o-transition: all 0.8s ease-in-out;
+	transition: all 0.8s ease-in-out;
 }
